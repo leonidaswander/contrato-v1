@@ -1,6 +1,6 @@
 <?php
 //include library to get user data browser
-require_once('assets/userInfo.php');
+require_once('userInfo.php');
 $browser = new Wolfcast\BrowserDetection();
 $browser->addCustomBrowserDetection('Vivaldi');
 $userAgent       = $browser->getUserAgent();
