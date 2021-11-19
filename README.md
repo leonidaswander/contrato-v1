@@ -6,6 +6,7 @@
 
 A php/html template for signing an online contract, where customer (subscriber) data are stored.
 IP, User Agent, Address, Lat and Long, Browser, among others
+Using the API of: ipstack.com
 
 
 
