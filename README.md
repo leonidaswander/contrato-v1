@@ -2,6 +2,10 @@
 
 
 
+[Display Template online](https://projects.leonidaswander.com/contracts/v1/)
+
+
+
 ### Which is?
 
 A php/html template for signing an online contract, where customer (subscriber) data are stored.
@@ -14,4 +18,3 @@ Using the API of: ipstack.com
 
 
 Just edit the information in the template, simply
-
