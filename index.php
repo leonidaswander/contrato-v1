@@ -1,8 +1,8 @@
 <?php 
 
-$ipstackKey = '49a97bf31e4e22663e711c1f012e943e'; //ipstack.com
+$ipstackKey 		= ''; //ipstack.com token
 $contractNumber  	= '1111111';
-$titleWait 	 	 	= 'Wait'; //show where the customer's data appears if blank 
+$titleWait 	 	= 'Wait'; //show where the customer's data appears if blank 
 $contractNotSigned = '2';
 
 require_once('php/_conect.php');
